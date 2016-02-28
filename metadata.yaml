@@ -1,0 +1,25 @@
+_repo: The-Courtship-of-Susan-Bell_3700
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'New York (State) -- Fiction'
+- !lcc 'PR'
+title: The Courtship of Susan Bell
+url: http://www.gutenberg.org/ebooks/3700
